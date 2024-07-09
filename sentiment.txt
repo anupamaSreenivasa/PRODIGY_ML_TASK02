@@ -1,2 +1,0 @@
-2. What is TF IDF vectorizer
-3. What are the important steps for sentiment analysis
